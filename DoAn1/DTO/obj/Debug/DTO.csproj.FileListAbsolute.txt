@@ -4,3 +4,9 @@ D:\DoAn\DoAn1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
 D:\DoAn\DoAn1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
 D:\DoAn\DoAn1\DTO\obj\Debug\DTO.dll
 D:\DoAn\DoAn1\DTO\obj\Debug\DTO.pdb
+E:\DoAn\DoAn1\DTO\bin\Debug\DTO.dll
+E:\DoAn\DoAn1\DTO\bin\Debug\DTO.pdb
+E:\DoAn\DoAn1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\DoAn\DoAn1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\DoAn\DoAn1\DTO\obj\Debug\DTO.dll
+E:\DoAn\DoAn1\DTO\obj\Debug\DTO.pdb

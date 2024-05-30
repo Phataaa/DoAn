@@ -7,3 +7,12 @@ D:\DoAn\DoAn1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 D:\DoAn\DoAn1\DAL\obj\Debug\DAL.csproj.CopyComplete
 D:\DoAn\DoAn1\DAL\obj\Debug\DAL.dll
 D:\DoAn\DoAn1\DAL\obj\Debug\DAL.pdb
+E:\DoAn\DoAn1\DAL\bin\Debug\DAL.dll
+E:\DoAn\DoAn1\DAL\bin\Debug\DAL.pdb
+E:\DoAn\DoAn1\DAL\bin\Debug\DTO.dll
+E:\DoAn\DoAn1\DAL\bin\Debug\DTO.pdb
+E:\DoAn\DoAn1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\DoAn\DoAn1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\DoAn\DoAn1\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\DoAn\DoAn1\DAL\obj\Debug\DAL.dll
+E:\DoAn\DoAn1\DAL\obj\Debug\DAL.pdb

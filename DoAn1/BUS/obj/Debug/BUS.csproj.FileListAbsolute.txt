@@ -9,3 +9,15 @@ D:\DoAn\DoAn1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
 D:\DoAn\DoAn1\BUS\obj\Debug\BUS.csproj.CopyComplete
 D:\DoAn\DoAn1\BUS\obj\Debug\BUS.dll
 D:\DoAn\DoAn1\BUS\obj\Debug\BUS.pdb
+E:\DoAn\DoAn1\BUS\bin\Debug\BUS.dll
+E:\DoAn\DoAn1\BUS\bin\Debug\BUS.pdb
+E:\DoAn\DoAn1\BUS\bin\Debug\DAL.dll
+E:\DoAn\DoAn1\BUS\bin\Debug\DTO.dll
+E:\DoAn\DoAn1\BUS\bin\Debug\DAL.pdb
+E:\DoAn\DoAn1\BUS\bin\Debug\DTO.pdb
+E:\DoAn\DoAn1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\DoAn\DoAn1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\DoAn\DoAn1\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\DoAn\DoAn1\BUS\obj\Debug\BUS.dll
+E:\DoAn\DoAn1\BUS\obj\Debug\BUS.pdb
+E:\DoAn\DoAn1\BUS\obj\Debug\BUS.csproj.ResolveComReference.cache

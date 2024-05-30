@@ -16,7 +16,7 @@ namespace DAL
     {
 
         //Khai báo các đối tượng
-        public string strCon = @"Data Source = THOMHEHE\PTHT;Initial Catalog = DoAn1; Integrated Security = True";
+        public string strCon = @"Data Source = DESKTOP-IEE74KN\MAY1;Initial Catalog = DoAn1; Integrated Security = True";
         public SqlConnection sqlCon;
         public SqlCommand sqlCom;
         public SqlDataReader sqlRe;    //Tự nghiên cứu
