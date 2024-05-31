@@ -203,11 +203,26 @@ namespace DoAn1
         {
             string maSP = cbotensp.SelectedValue.ToString();
             string tenSP = cbotensp.Text;
-            int soLuong = int.Parse(txtsl.Text);
+            int soLuong = 1;
+            if (!string.IsNullOrWhiteSpace(txtsl.Text))
+            {
+                soLuong = int.Parse(txtsl.Text);
+            }
             float gia = float.Parse(txtgia.Text);
             float thanhTien = soLuong * gia;
+            if (dgvsp.Columns.Count == 0)
+            {
+                dgvsp.Columns.Add("MaHD", "Mã HĐ");
+                dgvsp.Columns.Add("MaNV", "Mã NV");
+                dgvsp.Columns.Add("MaKH", "Mã KH");
+                dgvsp.Columns.Add("MaSP", "Mã SP");
+                dgvsp.Columns.Add("TenSP", "Tên SP");
+                dgvsp.Columns.Add("SoLuong", "Số Lượng");
+                dgvsp.Columns.Add("Gia", "Giá");
+                dgvsp.Columns.Add("ThanhTien", "Thành Tiền");
+            }
 
-            dgvsp.Rows.Add(txtmahd.Text, cbomanv.SelectedValue.ToString(), cbomakh.SelectedValue, maSP, tenSP, soLuong, gia, thanhTien);
+            dgvsp.Rows.Add(txtmahd.Text, cbomanv.Text, cbomakh.Text, maSP, tenSP, soLuong, gia, thanhTien);
             tongTien += thanhTien;
             txttongtien.Text = tongTien.ToString();
 
